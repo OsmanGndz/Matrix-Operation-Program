@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679260705 source:c:\users\4242o\documents\okul\c programming lab\matrix operations program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1679564339 source:c:\users\4242o\documents\okul\c programming\hw1\matrix operations program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
